@@ -31,3 +31,9 @@ git push
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 Welcome to CDAC Guwahati [CDAC Guwahati](https://cdac.in/index.aspx?id=edu_acts_NECertificateGuwahati2)
+
+![This is a andro humanoid robot.](https://newo.ai/wp-content/uploads/2024/11/1-What-is-an-AI-Model-Exploring-Types-and-Their-Applications.jpg)
+
+# Image from local
+
+![This image is rendered locally](assets/ai-image.jpg)
