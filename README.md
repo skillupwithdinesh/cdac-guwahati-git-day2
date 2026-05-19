@@ -37,3 +37,25 @@ Welcome to CDAC Guwahati [CDAC Guwahati](https://cdac.in/index.aspx?id=edu_acts_
 # Image from local
 
 ![This image is rendered locally](assets/ai-image.jpg)
+
+List
+- Item1
+- Item2
+- Item3
+
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
